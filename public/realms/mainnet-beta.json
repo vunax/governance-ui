@@ -3646,5 +3646,18 @@
     "website": "https://deanslistdao.notion.site/JetSki-DAO-380d86533e154e4c8bbd66a11c54194f",
     "twitter": "@JetSkiDAO",
     "telegram": "https://t.me/+mlW159EpFtY1N2U0D"
+  },
+  { 
+    "symbol": "DLNG",
+    "bannerImage": "/realms/DLNG/dlbanner.png",
+    "displayName": "Dean's List NG Network State",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "AWwUtetksgRqLjaSKrh88wi7C2SFBgii9uxETmLLiWZH",
+    "communityMint": "BMTZm3yWwf8QM1VvMRCVbZ6RQB5VhETpZPsECCpnVEgu",
+    "ogImage": "/realms/DLNG/dllogo.png",
+    "shortDescription": "Dean's List Nigeria Branch",
+    "website": "https://deanslist.services/",
+    "twitter": "@deanslistng",
+    "discord": "http://discord.gg/deanslist"
   }
 ]
